@@ -1,9 +1,10 @@
-Express & ES6 REST API Boilerplate
-==================================
+Lugares API
+=================================
 
-[![bitHound Score](https://www.bithound.io/github/developit/express-es6-rest-api/badges/score.svg)](https://www.bithound.io/github/developit/express-es6-rest-api)
+Lugares is a place finding tool that queries the top cities in the US for places that match a certain keyword. It currently
+supports the Google Places API as a data source.
 
-This is a straightforward boilerplate for building REST APIs with ES6 and Express.
+Fork of Express & ES6 REST API Boilerplate: https://github.com/developit/express-es6-rest-api.git
 
 - ES6 support via [babel](https://babeljs.io)
 - REST resources as middleware via [resource-router-middleware](https://github.com/developit/resource-router-middleware)
